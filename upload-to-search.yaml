@@ -11,4 +11,4 @@ Resources:
       Description: ''
       MemorySize: 512
       Timeout: 900
-      Role: 'arn:aws:iam::977765183651:user/github_user'
+      Role: 'arn:aws:iam::977765183651:role/lambda_s3_cloudformation_service_role'
